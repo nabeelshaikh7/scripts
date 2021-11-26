@@ -16,6 +16,9 @@ sudo apt update -y
 #installing docker-ce
 sudo apt install -y docker-ce
 
+#install docker-compose
+sudo apt install docker-compose
+
 #to avoide typing sudo command this command 
 sudo usermod -aG docker ${USER}
 
