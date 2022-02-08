@@ -1,3 +1,8 @@
+#NOTE
+This project has moved to  [Gitlab](https://gitlab.com/nabeelshaikh5/scripts) 
+
+
+
 # scripts
 
 some package install scripts for linux. mainly for ubuntu 
